@@ -26,7 +26,7 @@ export default function App() {
         </div>
 
         <footer className="text-xs text-gray-400 mt-4 text-center">
-          Save best score in localStorage · Demo assignment
+          Save best score in localStorage · Made with ❤ from Ambrish for LSOYS Games & Apps.
         </footer>
       </div>
     </div>
