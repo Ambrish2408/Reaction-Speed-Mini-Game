@@ -5,25 +5,26 @@ A fun Reaction Speed Game built with React + Vite + Tailwind + Framer Motion.
 Test your reaction time by clicking on moving targets before the timer runs out.
 Each round gets faster and more challenging!
 
-<ul><b>📸 Screenshots</b></ul>
+<h2>📸 Screenshots</h2>
 Home Screen	Gameplay	Game Over
 
 	
 	
 
-<b><ul>🎥 Demo Video/GIF:</b></ul>
+<h3>🎥 Demo Video/GIF:</h3>
 
 
-<b><ul>⚙️ Setup<b></ul>
+<h4>⚙️ Setup</h4>
 
-Clone the repository
+<h5>Clone the repository</h5>
 
 git clone https://github.com/Ambrish2408/Reaction-Speed-Mini-Game.git
 <br>
+
 cd reaction-speed-game-sounds
 
 
-Install dependencies
+<h6>Install dependencies</h6>
 
 npm install
 
@@ -33,12 +34,12 @@ Run development server
 npm run dev
 
 
-Build for production
+<h7>Build for production</h7>
 
 npm run build
 npm run preview
 
-🎮 Controls
+<h8>🎮 Controls</h8>
 
 Click on the target shape before the timer runs out.
 
@@ -48,7 +49,7 @@ Pause/Resume anytime with the top-right button.
 
 Restart the game from the menu after losing.
 
-✨ Features
+<h9>✨ Features</h9>
 
 ⚡ Progressive difficulty — shapes appear faster each round
 
@@ -64,7 +65,7 @@ Restart the game from the menu after losing.
 
 🔄 Restart button
 
-🐛 Known Issues
+<h10>🐛 Known Issues</h10>
 
 Leaderboard uses mock data (no backend yet).
 
@@ -72,6 +73,6 @@ On very small screens (<320px), text overlap may occur.
 
 Rarely, two shapes might overlap if animations are interrupted.
 
-🚀 Deployment
+<h11>🚀 Deployment</h11>
 
 The game is live on:
