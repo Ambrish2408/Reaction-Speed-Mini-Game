@@ -54,7 +54,7 @@ Pause/Resume anytime with the top-right button.
 
 Restart the game from the menu after losing.
 
-<h9>✨ Features</h9>
+<b><ul><h9>✨ Features</b></ul></h9>
 
 ⚡ Progressive difficulty — shapes appear faster each round
 
@@ -70,7 +70,7 @@ Restart the game from the menu after losing.
 
 🔄 Restart button
 
-<h10>🐛 Known Issues</h10>
+<b><ul><h10>🐛 Known Issues</b></ul></h10>
 
 Leaderboard uses mock data (no backend yet).
 
