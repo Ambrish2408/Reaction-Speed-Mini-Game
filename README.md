@@ -17,6 +17,7 @@ Home Screen	Gameplay	Game Over
 	
 
 <b><ul><h3>🎥 Demo Video/GIF:</b></ul></h3>
+https://www.loom.com/share/d3e5b07c48704152b9c141216c49c0c0?sid=210db156-8b42-4df4-bd7e-3dd0bff5c716
 
 
 <b><ul><h4>⚙️ Setup</b></ul></h4>
