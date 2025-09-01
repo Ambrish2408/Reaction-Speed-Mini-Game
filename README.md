@@ -78,6 +78,6 @@ On very small screens (<320px), text overlap may occur.
 
 Rarely, two shapes might overlap if animations are interrupted.
 
-<h11>🚀 Deployment</h11>
+<b><h11>🚀 Deployment</h11><b>
 
-The game is live on:
+<b><ul>The game is live on</ul>:http://reaction-speed-mini-game.vercel.app/
