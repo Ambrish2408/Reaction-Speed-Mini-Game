@@ -39,9 +39,10 @@ Run development server
 npm run dev
 
 
-<h7>Build for production</h7>
+<b><h7>Build for production</h7><b>
 
 npm run build
+<br>
 npm run preview
 
 <b><ul><h8>🎮 Controls</b></ul></h8>
