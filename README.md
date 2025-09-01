@@ -39,7 +39,7 @@ Run development server
 npm run dev
 
 
-<b><h7>Build for production</h7><b>
+<b><h7>Build for production</h7></b>
 
 npm run build
 <br>
