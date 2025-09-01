@@ -80,4 +80,4 @@ Rarely, two shapes might overlap if animations are interrupted.
 
 <b><h11>🚀 Deployment</h11><b>
 
-<b><ul>The game is live on</ul>:http://reaction-speed-mini-game.vercel.app/
+<b><ul>The game is live on:</ul>http://reaction-speed-mini-game.vercel.app/
