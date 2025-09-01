@@ -16,10 +16,10 @@ Home Screen	Gameplay	Game Over
 	
 	
 
-<h3>🎥 Demo Video/GIF:</h3>
+<b><ul><h3>🎥 Demo Video/GIF:</b></ul></h3>
 
 
-<h4>⚙️ Setup</h4>
+<b><ul><h4>⚙️ Setup</b></ul></h4>
 
 <h5>Clone the repository</h5>
 
@@ -44,7 +44,7 @@ npm run dev
 npm run build
 npm run preview
 
-<h8>🎮 Controls</h8>
+<b><ul><h8>🎮 Controls</b></ul></h8>
 
 Click on the target shape before the timer runs out.
 
