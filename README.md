@@ -1,20 +1,20 @@
-🎯 Reaction Speed Game
+<h1><ul>🎯 Reaction Speed Game</h1></ul>
 
 
 A fun Reaction Speed Game built with React + Vite + Tailwind + Framer Motion.
 Test your reaction time by clicking on moving targets before the timer runs out.
 Each round gets faster and more challenging!
 
-📸 Screenshots
+<ul><b>📸 Screenshots</b></ul>
 Home Screen	Gameplay	Game Over
 
 	
 	
 
-🎥 Demo Video/GIF:
+<b><ul>🎥 Demo Video/GIF:</b></ul>
 
 
-⚙️ Setup
+<b><ul>⚙️ Setup<b></ul>
 
 Clone the repository
 
