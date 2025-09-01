@@ -9,6 +9,9 @@ Each round gets faster and more challenging!
 Home Screen	Gameplay	Game Over
 <img width="1418" height="741" alt="image" src="https://github.com/user-attachments/assets/38423550-0651-4789-949a-3b517e072b32" />
 
+<img width="1425" height="787" alt="image" src="https://github.com/user-attachments/assets/9d0929c5-5561-4bef-9011-c2a6fc939780" />
+
+
 
 	
 	
