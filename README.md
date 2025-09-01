@@ -19,6 +19,7 @@ Home Screen	Gameplay	Game Over
 Clone the repository
 
 git clone https://github.com/Ambrish2408/Reaction-Speed-Mini-Game.git
+<br>
 cd reaction-speed-game-sounds
 
 
