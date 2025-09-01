@@ -34,7 +34,7 @@ cd reaction-speed-game-sounds
 npm install
 
 
-Run development server
+<b>Run development server</b>
 
 npm run dev
 
